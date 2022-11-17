@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "266949577924",
+    "project_id": "facebook-auth-app-269c5",
+    "storage_bucket": "facebook-auth-app-269c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266949577924:android:cb5110949bd9808ce44d91",
+        "android_client_info": {
+          "package_name": "com.example.integration_facebook_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266949577924-uidffl8laoq4g3fdb1b1gncv2l0t92q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfnLOJC_MLqFR0h5TzTNRNhg_WnScKXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266949577924-uidffl8laoq4g3fdb1b1gncv2l0t92q9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266949577924-pn50s4ear1bogs8pq3de3dku9ravdks1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.integrationFacebookAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
