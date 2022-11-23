@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:266949577924:android:cb5110949bd9808ce44d91",
+        "mobilesdk_app_id": "1:266949577924:android:b078e0dab67b6f24e44d91",
         "android_client_info": {
-          "package_name": "com.example.integration_facebook_auth"
+          "package_name": "com.example.editais_app"
         }
       },
       "oauth_client": [
@@ -31,10 +31,54 @@
               "client_type": 3
             },
             {
-              "client_id": "266949577924-pn50s4ear1bogs8pq3de3dku9ravdks1.apps.googleusercontent.com",
+              "client_id": "266949577924-fsk3962ve5f5bf1289ejehaofg1718i3.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.integrationFacebookAuth"
+                "bundle_id": "com.example.editaisApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266949577924:android:cb5110949bd9808ce44d91",
+        "android_client_info": {
+          "package_name": "com.example.integration_facebook_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266949577924-dlp7859rskeqq9dksk3l27o7fnbg5v0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.integration_facebook_auth",
+            "certificate_hash": "3109142f97aa1b4002786f88cba35e36a1fb52ba"
+          }
+        },
+        {
+          "client_id": "266949577924-uidffl8laoq4g3fdb1b1gncv2l0t92q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfnLOJC_MLqFR0h5TzTNRNhg_WnScKXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266949577924-uidffl8laoq4g3fdb1b1gncv2l0t92q9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "266949577924-fsk3962ve5f5bf1289ejehaofg1718i3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.editaisApp"
               }
             }
           ]
